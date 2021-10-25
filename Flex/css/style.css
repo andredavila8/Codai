@@ -1,0 +1,23 @@
+#content {
+display: flex;
+
+flex-direction: row;
+flex-wrap: wrap;
+justify-content: space-evenly;
+align-items: stretch;
+}
+
+.quadrado{
+    background-color: blueviolet;
+    height: 200px;
+    width: 200px;
+    margin: 20px;
+
+}
+
+.quadrado2{
+    background-color: greenyellow;
+    width: 200px;
+    margin: 20px;
+
+}
